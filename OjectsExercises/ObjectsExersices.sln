@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{793FBFC8-F85B-4196-B71E-26AAF10D8E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialBigInteger", "FactorialBigInteger\FactorialBigInteger.csproj", "{E9314154-AAB8-4125-91FE-B33795B67C96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsRandomizedPositions", "WordsRandomizedPositions\WordsRandomizedPositions.csproj", "{9A02132D-FEAD-4279-9003-E3A51C088938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793FBFC8-F85B-4196-B71E-26AAF10D8E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793FBFC8-F85B-4196-B71E-26AAF10D8E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793FBFC8-F85B-4196-B71E-26AAF10D8E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793FBFC8-F85B-4196-B71E-26AAF10D8E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9314154-AAB8-4125-91FE-B33795B67C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9314154-AAB8-4125-91FE-B33795B67C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9314154-AAB8-4125-91FE-B33795B67C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9314154-AAB8-4125-91FE-B33795B67C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A02132D-FEAD-4279-9003-E3A51C088938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A02132D-FEAD-4279-9003-E3A51C088938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A02132D-FEAD-4279-9003-E3A51C088938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A02132D-FEAD-4279-9003-E3A51C088938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
